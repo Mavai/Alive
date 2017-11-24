@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/Mavai/Alive.git";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/Mavai/Alive";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://blooming-everglades-31746.herokuapp.com/";
     }
 }
